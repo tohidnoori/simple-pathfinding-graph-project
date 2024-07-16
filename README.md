@@ -15,5 +15,11 @@ The challenge of finding the shortest path between nodes in a graph. This involv
  <div/>
 <br/>
 <div align="center" style="display:flex;flex-direction:row;align-items: center;">
+   <img style="margin:10;" src="https://github.com/tohidnoori/simple-pathfinding-graph-project/blob/main/images/B Mst applied.png" width="800" height="500" alt="Image 1">
   <div/>
 <br/>
+<div align="center" style="display:flex;flex-direction:row;align-items: center;">
+   <img style="margin:10;" src="https://github.com/tohidnoori/simple-pathfinding-graph-project/blob/main/images/D Mst applied.png" width="800" height="500" alt="Image 1">
+  <div/>
+<br/>
+
